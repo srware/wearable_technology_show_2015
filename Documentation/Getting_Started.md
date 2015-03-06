@@ -15,7 +15,7 @@ You should also have completed the following:
 * You should have your favourite serial client installed (e.g. Putty)
 * You should have your chosen IDE installed so you can begin development (i.e. XDK, Eclipse, Arduino)
 
-> <strong>If you have not completed any of the above please follow the steps outlined [here](../master/Documentation/Setup.md)</strong>
+> <strong>If you have not completed any of the above please follow the steps outlined [here](Setup.md)</strong>
 
 ## Unboxing
 Please follow the steps below to assemble and connect your Edison.
