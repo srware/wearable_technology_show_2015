@@ -21,6 +21,13 @@ You should also have completed the following:
 Please follow the steps below to assemble and connect your Edison.
 
 * [Assembling Your Edison](https://software.intel.com/en-us/articles/intel-edison-arduino-expansion-board-assembly)
+* You can now connect your Grove Base Shield following the instructions below:
+	- Remove all power and USB leads from the Edison breakout board before continuing!
+	- The Base Shield can be found underneath the LCD screen in your Grove kit (underneath the pink styrofoam).
+	- Remove the pink styrofoam from the underside of the Base Shield and locate the pins with the Arduino socket on the Edison breakout board.
+	- When you are certain that all pins are aligned correctly, push down evenly on the top of the shield until all pins are firmly located in their socket.
+	- Re-attach USB leads and power to the Edison board. You should have a green light on the Base Shield which indicates it is connected correctly and receiving power.
+	- Please refer to the 'Grove Start Kit' booklet for further information which can be found underneath the white plastic sensor tray in your Grove kit.
 * Connecting your Edison (login details below)
     - [Windows](https://software.intel.com/en-us/articles/getting-started-with-the-intel-edison-board-on-windows#terminal)
     - [Mac](https://software.intel.com/en-us/articles/getting-started-with-the-intel-edison-board-on-mac#terminall)
