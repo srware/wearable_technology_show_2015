@@ -14,12 +14,12 @@ Please read the information and follow the instructions in the following section
 
 Agenda
 ======
-* Tuesday
+* <strong>Tuesday</strong>
 	- 9:30 - Welcome Presentation
 	- 10:15 - Unboxing (Hackfest Begins)
 	- 17:30 - End Of Day 1
 
-* Wednesday
+* <strong>Wednesday</strong>
 	- 9:00 - Start Of Day 2
 	- 15:00 - Team Presentations
 	- 16:00 - Winners Announced
