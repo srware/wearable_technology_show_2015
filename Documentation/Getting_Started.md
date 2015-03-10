@@ -40,7 +40,8 @@ You should now have your Edison assembled and be able to access the OS through s
 ## WiFi
 * [Connect Your Edison To WiFi](https://software.intel.com/en-us/articles/intel-edison-getting-started-wifi) (Make a note of the IP address for future reference)
 
-> <strong>WiFi:</strong> SSID: Password:
+> <strong>WiFi:</strong> SSID: intel2015 Password: hackfest
+> Please ensure your development machine is on the same network!
 
 ## Test Your IDE
 You are now ready to begin developing. We would recommend starting with a simple example to make sure your IDE is communicating with your Edison correctly.

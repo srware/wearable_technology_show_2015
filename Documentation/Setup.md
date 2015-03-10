@@ -16,6 +16,7 @@ On the day you will be receiving an [Intel® Edison Module](http://www.intel.co.
     - [Arduino](https://software.intel.com/en-us/articles/install-arduino-ide-on-intel-iot-platforms)
     - [Javascript (Node.js)](https://software.intel.com/en-us/articles/install-the-intel-xdk-iot-edition) [You do not need to install Bonjour, connecting to Edison manually is recommended]
     - [C/C++](https://software.intel.com/en-us/articles/install-eclipse-ide-on-intel-iot-platforms)
+    - Python - The Edison operating system has python support built-in. You can write scripts on the device itself using 'vi' over SSH or serial.
 
 * Please read through the 'Getting Started' guide below which correlates to your operating system to familiarise yourself with the Edison connection process.
     - [Windows](https://software.intel.com/en-us/articles/getting-started-with-the-intel-edison-board-on-windows)

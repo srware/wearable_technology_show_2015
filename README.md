@@ -4,7 +4,7 @@
 
 Here we will post information and links to documentation which will hopefully help you throughout the hackfest.
 
-> <strong>WiFi:</strong> SSID: Password:
+> <strong>WiFi:</strong> SSID: intel2015 Password: hackfest
 
 Before You Arrive...
 ====================
