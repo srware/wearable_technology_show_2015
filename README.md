@@ -34,6 +34,6 @@ The information in the links below will enable you to setup your Edison and star
 
 Criteria
 ========
-*
-*
-*
+* Innovative
+* Business Viable / Sustainable
+* Using Intel® Edison Key Features (Performance, Wi-Fi / BTLE, Small Size)
